@@ -5,8 +5,8 @@
  Available sorting directions: `default`, `asc`, `desc`.
  
  Available data types for comparison: `string`, `int`.
- 
-## Example [see demo](https://fesawder.github.io/sort-elements.github.io/)
+
+## Example [see demo](https://fesawder.github.io/sort-elements/)
 
 ```html
 <h2>Example with table</h2>
